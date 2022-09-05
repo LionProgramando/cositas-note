@@ -1,0 +1,1 @@
+hola = input("escribe algo ")
